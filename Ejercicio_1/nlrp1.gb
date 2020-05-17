@@ -1,0 +1,453 @@
+LOCUS       NM_033004               5610 bp    mRNA    linear   PRI 09-MAY-2020
+DEFINITION  Homo sapiens NLR family pyrin domain containing 1 (NLRP1),
+            transcript variant 1, mRNA.
+ACCESSION   NM_033004 NM_021730
+VERSION     NM_033004.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 5610)
+  AUTHORS   Ozretic P, da Silva Filho MI, Catalano C, Sokolovic I, Vukic-Dugac
+            A, Sutic M, Kurtovic M, Bubanovic G, Popovic-Grle S,
+            Skrinjaric-Cincar S, Vugrek O, Jukic I, Rumora L, Bosnar M,
+            Samarzija M, Bals R, Jakopovic M, Forsti A and Knezevic J.
+  TITLE     Association of NLRP1 Coding Polymorphism with Lung Function and
+            Serum IL-1beta Concentration in Patients Diagnosed with Chronic
+            Obstructive Pulmonary Disease (COPD)
+  JOURNAL   Genes (Basel) 10 (10), E783 (2019)
+   PUBMED   31601004
+  REMARK    GeneRIF: Coding polymorphisms in NLRP1 rs12150220 show an
+            association with Chronic Obstructive Pulmonary Disease disease
+            severity. Decreased lung function, measured by a forced expiratory
+            volume in 1 s (FEV1% predicted), was significantly associated with
+            the minor allele genotypes (AT + TT) of NLRP1 rs12150220 (p =
+            0.0002). The same rs12150220 genotypes exhibited a higher level of
+            serum IL-1beta compared to the AA genotype
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 5610)
+  AUTHORS   Rajendiran KS, Rajappa M, Chandrashekar L and Thappa DM.
+  TITLE     Association of Nod-like receptor protein-1 (rs2670660) and
+            Toll-like receptor-4 (rs4986790) with non-segmental vitiligo: A
+            case-control study in South Indian population
+  JOURNAL   Int. J. Immunogenet. 46 (5), 321-330 (2019)
+   PUBMED   31293094
+  REMARK    GeneRIF: The study results suggest NLRP-1 (rs2670660) is
+            significantly associated with increased risk of NSV susceptibility
+            whilst TLR-4 (rs4986790) does not confer risk in South Indian
+            population.
+REFERENCE   3  (bases 1 to 5610)
+  AUTHORS   Drutman SB, Haerynck F, Zhong FL, Hum D, Hernandez NJ, Belkaya S,
+            Rapaport F, de Jong SJ, Creytens D, Tavernier SJ, Bonte K, De
+            Schepper S, van der Werff Ten Bosch J, Lorenzo-Diaz L, Wullaert A,
+            Bossuyt X, Orth G, Bonagura VR, Beziat V, Abel L, Jouanguy E,
+            Reversade B and Casanova JL.
+  TITLE     Homozygous NLRP1 gain-of-function mutation in siblings with a
+            syndromic form of recurrent respiratory papillomatosis
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 116 (38), 19055-19063 (2019)
+   PUBMED   31484767
+  REMARK    GeneRIF: Homozygous NLRP1 gain-of-function mutation is associated
+            with a syndromic form of recurrent respiratory papillomatosis.
+REFERENCE   4  (bases 1 to 5610)
+  AUTHORS   Sun X, Xia Y, Liu Y, Wang Y, Luo S, Lin J, Huang G, Li X, Xie Z and
+            Zhou Z.
+  TITLE     Polymorphisms in NLRP1 Gene Are Associated with Type 1 Diabetes
+  JOURNAL   J Diabetes Res 2019, 7405120 (2019)
+   PUBMED   31396539
+  REMARK    GeneRIF: SNPs in the NLRP1 gene were associated with T1
+            Diabetes(T1D), as well as the age of onset in the Chinese Han T1D
+            individuals. This indicates that the NLRP1 gene might play a
+            pivotal role in the etiopathogenesis of T1D and could be applied to
+            genetic screening of T1D in the Chinese Han population.
+            Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 5610)
+  AUTHORS   Mahmoudiasl,G.R., Abbaszadeh,H.A., Rezaei-Tavirani,M.,
+            Abdollahifar,M.A., Khoramgah,M.S., Niknazar,S., Darabi,S. and
+            Roozbahany,N.A.
+  TITLE     Nod-like receptor protein 3 and nod-like receptor protein 1
+            inflammasome activation in the hippocampal region of postmortem
+            methamphetamine chronic user
+  JOURNAL   Bratisl Lek Listy 120 (10), 769-776 (2019)
+   PUBMED   31663353
+  REMARK    GeneRIF: Chronic Meth abuse could result in increases of NLRP1 and
+            NLRP3 and induction of inflammation and apoptosis in the
+            hippocampus
+REFERENCE   6  (bases 1 to 5610)
+  AUTHORS   Chu ZL, Pio F, Xie Z, Welsh K, Krajewska M, Krajewski S, Godzik A
+            and Reed JC.
+  TITLE     A novel enhancer of the Apaf1 apoptosome involved in cytochrome
+            c-dependent caspase activation and apoptosis
+  JOURNAL   J. Biol. Chem. 276 (12), 9239-9245 (2001)
+   PUBMED   11113115
+REFERENCE   7  (bases 1 to 5610)
+  AUTHORS   Hlaing T, Guo RF, Dilley KA, Loussia JM, Morrish TA, Shi MM,
+            Vincenz C and Ward PA.
+  TITLE     Molecular cloning and characterization of DEFCAP-L and -S, two
+            isoforms of a novel member of the mammalian Ced-4 family of
+            apoptosis proteins
+  JOURNAL   J. Biol. Chem. 276 (12), 9230-9238 (2001)
+   PUBMED   11076957
+REFERENCE   8  (bases 1 to 5610)
+  AUTHORS   Martinon,F., Hofmann,K. and Tschopp,J.
+  TITLE     The pyrin domain: a possible member of the death domain-fold family
+            implicated in apoptosis and inflammation
+  JOURNAL   Curr. Biol. 11 (4), R118-R120 (2001)
+   PUBMED   11250163
+REFERENCE   9  (bases 1 to 5610)
+  AUTHORS   Bertin,J. and DiStefano,P.S.
+  TITLE     The PYRIN domain: a novel motif found in apoptosis and inflammation
+            proteins
+  JOURNAL   Cell Death Differ. 7 (12), 1273-1274 (2000)
+   PUBMED   11270363
+  REMARK    Review article
+REFERENCE   10 (bases 1 to 5610)
+  AUTHORS   Thorpe KL, Abdulla S, Kaufman J, Trowsdale J and Beck S.
+  TITLE     Phylogeny and structure of the RING3 gene
+  JOURNAL   Immunogenetics 44 (5), 391-396 (1996)
+   PUBMED   8781126
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC055839.9, AF229060.1,
+            AB023143.1 and AI819334.1.
+            On Nov 22, 2018 this sequence version replaced NM_033004.3.
+            
+            Summary: This gene encodes a member of the Ced-4 family of
+            apoptosis proteins. Ced-family members contain a caspase
+            recruitment domain (CARD) and are known to be key mediators of
+            programmed cell death. The encoded protein contains a distinct
+            N-terminal pyrin-like motif, which is possibly involved in
+            protein-protein interactions. This protein interacts strongly with
+            caspase 2 and weakly with caspase 9. Overexpression of this gene
+            was demonstrated to induce apoptosis in cells. Multiple
+            alternatively spliced transcript variants encoding distinct
+            isoforms have been found for this gene, but the biological validity
+            of some variants has not been determined. [provided by RefSeq, Jul
+            2008].
+            
+            Transcript Variant: This variant (1) encodes the longest isoform
+            (1).
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AF229060.1 [ECO:0000332]
+            RNAseq introns              :: mixed/partial sample support
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000350]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000572272.6/ ENSP00000460475.1
+            RefSeq Select criteria :: based on conservation, expression,
+                                      longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-552               AC055839.9         96884-97435         c
+            553-4974            AF229060.1         1-4422
+            4975-5606           AB023143.1         4813-5444
+            5607-5610           AI819334.1         11-14               c
+FEATURES             Location/Qualifiers
+     source          1..5610
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="17"
+                     /map="17p13.2"
+     gene            1..5610
+                     /gene="NLRP1"
+                     /gene_synonym="AIADK; CARD7; CIDED; CLR17.1; DEFCAP;
+                     DEFCAP-L/S; JRRP; MSPC; NAC; NALP1; PP1044; SLEV1; VAMAS1"
+                     /note="NLR family pyrin domain containing 1"
+                     /db_xref="GeneID:22861"
+                     /db_xref="HGNC:HGNC:14374"
+                     /db_xref="MIM:606636"
+     exon            1..823
+                     /gene="NLRP1"
+                     /gene_synonym="AIADK; CARD7; CIDED; CLR17.1; DEFCAP;
+                     DEFCAP-L/S; JRRP; MSPC; NAC; NALP1; PP1044; SLEV1; VAMAS1"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    496..498
+                     /gene="NLRP1"
+                     /gene_synonym="AIADK; CARD7; CIDED; CLR17.1; DEFCAP;
+                     DEFCAP-L/S; JRRP; MSPC; NAC; NALP1; PP1044; SLEV1; VAMAS1"
+                     /note="upstream in-frame stop codon"
+     CDS             553..4974
+                     /gene="NLRP1"
+                     /gene_synonym="AIADK; CARD7; CIDED; CLR17.1; DEFCAP;
+                     DEFCAP-L/S; JRRP; MSPC; NAC; NALP1; PP1044; SLEV1; VAMAS1"
+                     /note="isoform 1 is encoded by transcript variant 1;
+                     NACHT, leucine rich repeat and PYD containing 1; death
+                     effector filament-forming Ced-4-like apoptosis protein;
+                     nucleotide-binding oligomerization domain, leucine rich
+                     repeat and pyrin domain containing 1; NACHT, leucine rich
+                     repeat and PYD (pyrin domain) containing 1; NACHT, LRR and
+                     PYD containing protein 1; caspase recruitment domain
+                     protein 7; NACHT, LRR and PYD domains-containing protein
+                     1; caspase recruitment domain-containing protein 7;
+                     nucleotide-binding domain and caspase recruitment domain"
+                     /codon_start=1
+                     /product="NACHT, LRR and PYD domains-containing protein 1
+                     isoform 1"
+                     /protein_id="NP_127497.1"
+                     /db_xref="CCDS:CCDS42246.1"
+                     /db_xref="GeneID:22861"
+                     /db_xref="HGNC:HGNC:14374"
+                     /db_xref="MIM:606636"
+                     /translation="MAGGAWGRLACYLEFLKKEELKEFQLLLANKAHSRSSSGETPAQ
+                     PEKTSGMEVASYLVAQYGEQRAWDLALHTWEQMGLRSLCAQAQEGAGHSPSFPYSPSE
+                     PHLGSPSQPTSTAVLMPWIHELPAGCTQGSERRVLRQLPDTSGRRWREISASLLYQAL
+                     PSSPDHESPSQESPNAPTSTAVLGSWGSPPQPSLAPREQEAPGTQWPLDETSGIYYTE
+                     IREREREKSEKGRPPWAAVVGTPPQAHTSLQPHHHPWEPSVRESLCSTWPWKNEDFNQ
+                     KFTQLLLLQRPHPRSQDPLVKRSWPDYVEENRGHLIEIRDLFGPGLDTQEPRIVILQG
+                     AAGIGKSTLARQVKEAWGRGQLYGDRFQHVFYFSCRELAQSKVVSLAELIGKDGTATP
+                     APIRQILSRPERLLFILDGVDEPGWVLQEPSSELCLHWSQPQPADALLGSLLGKTILP
+                     EASFLITARTTALQNLIPSLEQARWVEVLGFSESSRKEYFYRYFTDERQAIRAFRLVK
+                     SNKELWALCLVPWVSWLACTCLMQQMKRKEKLTLTSKTTTTLCLHYLAQALQAQPLGP
+                     QLRDLCSLAAEGIWQKKTLFSPDDLRKHGLDGAIISTFLKMGILQEHPIPLSYSFIHL
+                     CFQEFFAAMSYVLEDEKGRGKHSNCIIDLEKTLEAYGIHGLFGASTTRFLLGLLSDEG
+                     EREMENIFHCRLSQGRNLMQWVPSLQLLLQPHSLESLHCLYETRNKTFLTQVMAHFEE
+                     MGMCVETDMELLVCTFCIKFSRHVKKLQLIEGRQHRSTWSPTMVVLFRWVPVTDAYWQ
+                     ILFSVLKVTRNLKELDLSGNSLSHSAVKSLCKTLRRPRCLLETLRLAGCGLTAEDCKD
+                     LAFGLRANQTLTELDLSFNVLTDAGAKHLCQRLRQPSCKLQRLQLVSCGLTSDCCQDL
+                     ASVLSASPSLKELDLQQNNLDDVGVRLLCEGLRHPACKLIRLGLDQTTLSDEMRQELR
+                     ALEQEKPQLLIFSRRKPSVMTPTEGLDTGEMSNSTSSLKRQRLGSERAASHVAQANLK
+                     LLDVSKIFPIAEIAEESSPEVVPVELLCVPSPASQGDLHTKPLGTDDDFWGPTGPVAT
+                     EVVDKEKNLYRVHFPVAGSYRWPNTGLCFVMREAVTVEIEFCVWDQFLGEINPQHSWM
+                     VAGPLLDIKAEPGAVEAVHLPHFVALQGGHVDTSLFQMAHFKEEGMLLEKPARVELHH
+                     IVLENPSFSPLGVLLKMIHNALRFIPVTSVVLLYHRVHPEEVTFHLYLIPSDCSIRKA
+                     IDDLEMKFQFVRIHKPPPLTPLYMGCRYTVSGSGSGMLEILPKELELCYRSPGEDQLF
+                     SEFYVGHLGSGIRLQVKDKKDETLVWEALVKPGDLMPATTLIPPARIAVPSPLDAPQL
+                     LHFVDQYREQLIARVTSVEVVLDKLHGQVLSQEQYERVLAENTRPSQMRKLFSLSQSW
+                     DRKCKDGLYQALKETHPHLIMELWEKGSKKGLLPLSS"
+     misc_feature    2977..3042
+                     /gene="NLRP1"
+                     /gene_synonym="AIADK; CARD7; CIDED; CLR17.1; DEFCAP;
+                     DEFCAP-L/S; JRRP; MSPC; NAC; NALP1; PP1044; SLEV1; VAMAS1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9C000.1);
+                     Region: LRR 1"
+     misc_feature    3064..3126
+                     /gene="NLRP1"
+                     /gene_synonym="AIADK; CARD7; CIDED; CLR17.1; DEFCAP;
+                     DEFCAP-L/S; JRRP; MSPC; NAC; NALP1; PP1044; SLEV1; VAMAS1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9C000.1);
+                     Region: LRR 2"
+     misc_feature    3148..3213
+                     /gene="NLRP1"
+                     /gene_synonym="AIADK; CARD7; CIDED; CLR17.1; DEFCAP;
+                     DEFCAP-L/S; JRRP; MSPC; NAC; NALP1; PP1044; SLEV1; VAMAS1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9C000.1);
+                     Region: LRR 3"
+     misc_feature    3235..3297
+                     /gene="NLRP1"
+                     /gene_synonym="AIADK; CARD7; CIDED; CLR17.1; DEFCAP;
+                     DEFCAP-L/S; JRRP; MSPC; NAC; NALP1; PP1044; SLEV1; VAMAS1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9C000.1);
+                     Region: LRR 4"
+     misc_feature    3319..3384
+                     /gene="NLRP1"
+                     /gene_synonym="AIADK; CARD7; CIDED; CLR17.1; DEFCAP;
+                     DEFCAP-L/S; JRRP; MSPC; NAC; NALP1; PP1044; SLEV1; VAMAS1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9C000.1);
+                     Region: LRR 5"
+     misc_feature    3400..3471
+                     /gene="NLRP1"
+                     /gene_synonym="AIADK; CARD7; CIDED; CLR17.1; DEFCAP;
+                     DEFCAP-L/S; JRRP; MSPC; NAC; NALP1; PP1044; SLEV1; VAMAS1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9C000.1);
+                     Region: LRR 6"
+     misc_feature    4108..4110
+                     /gene="NLRP1"
+                     /gene_synonym="AIADK; CARD7; CIDED; CLR17.1; DEFCAP;
+                     DEFCAP-L/S; JRRP; MSPC; NAC; NALP1; PP1044; SLEV1; VAMAS1"
+                     /note="Trigger for autolytic processing.
+                     /evidence=ECO:0000269|PubMed:22665479; propagated from
+                     UniProtKB/Swiss-Prot (Q9C000.1); other site"
+     misc_feature    4186..4191
+                     /gene="NLRP1"
+                     /gene_synonym="AIADK; CARD7; CIDED; CLR17.1; DEFCAP;
+                     DEFCAP-L/S; JRRP; MSPC; NAC; NALP1; PP1044; SLEV1; VAMAS1"
+                     /note="Cleavage, by autolysis.
+                     /evidence=ECO:0000255|PROSITE-ProRule:PRU01174,
+                     ECO:0000269|PubMed:22665479; propagated from
+                     UniProtKB/Swiss-Prot (Q9C000.1); cleavage site"
+     exon            824..1000
+                     /gene="NLRP1"
+                     /gene_synonym="AIADK; CARD7; CIDED; CLR17.1; DEFCAP;
+                     DEFCAP-L/S; JRRP; MSPC; NAC; NALP1; PP1044; SLEV1; VAMAS1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1001..1204
+                     /gene="NLRP1"
+                     /gene_synonym="AIADK; CARD7; CIDED; CLR17.1; DEFCAP;
+                     DEFCAP-L/S; JRRP; MSPC; NAC; NALP1; PP1044; SLEV1; VAMAS1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1205..2909
+                     /gene="NLRP1"
+                     /gene_synonym="AIADK; CARD7; CIDED; CLR17.1; DEFCAP;
+                     DEFCAP-L/S; JRRP; MSPC; NAC; NALP1; PP1044; SLEV1; VAMAS1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2910..3080
+                     /gene="NLRP1"
+                     /gene_synonym="AIADK; CARD7; CIDED; CLR17.1; DEFCAP;
+                     DEFCAP-L/S; JRRP; MSPC; NAC; NALP1; PP1044; SLEV1; VAMAS1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3081..3251
+                     /gene="NLRP1"
+                     /gene_synonym="AIADK; CARD7; CIDED; CLR17.1; DEFCAP;
+                     DEFCAP-L/S; JRRP; MSPC; NAC; NALP1; PP1044; SLEV1; VAMAS1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3252..3422
+                     /gene="NLRP1"
+                     /gene_synonym="AIADK; CARD7; CIDED; CLR17.1; DEFCAP;
+                     DEFCAP-L/S; JRRP; MSPC; NAC; NALP1; PP1044; SLEV1; VAMAS1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3423..3512
+                     /gene="NLRP1"
+                     /gene_synonym="AIADK; CARD7; CIDED; CLR17.1; DEFCAP;
+                     DEFCAP-L/S; JRRP; MSPC; NAC; NALP1; PP1044; SLEV1; VAMAS1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3513..3604
+                     /gene="NLRP1"
+                     /gene_synonym="AIADK; CARD7; CIDED; CLR17.1; DEFCAP;
+                     DEFCAP-L/S; JRRP; MSPC; NAC; NALP1; PP1044; SLEV1; VAMAS1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3605..3685
+                     /gene="NLRP1"
+                     /gene_synonym="AIADK; CARD7; CIDED; CLR17.1; DEFCAP;
+                     DEFCAP-L/S; JRRP; MSPC; NAC; NALP1; PP1044; SLEV1; VAMAS1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3686..3848
+                     /gene="NLRP1"
+                     /gene_synonym="AIADK; CARD7; CIDED; CLR17.1; DEFCAP;
+                     DEFCAP-L/S; JRRP; MSPC; NAC; NALP1; PP1044; SLEV1; VAMAS1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            3849..4072
+                     /gene="NLRP1"
+                     /gene_synonym="AIADK; CARD7; CIDED; CLR17.1; DEFCAP;
+                     DEFCAP-L/S; JRRP; MSPC; NAC; NALP1; PP1044; SLEV1; VAMAS1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4073..4335
+                     /gene="NLRP1"
+                     /gene_synonym="AIADK; CARD7; CIDED; CLR17.1; DEFCAP;
+                     DEFCAP-L/S; JRRP; MSPC; NAC; NALP1; PP1044; SLEV1; VAMAS1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4336..4467
+                     /gene="NLRP1"
+                     /gene_synonym="AIADK; CARD7; CIDED; CLR17.1; DEFCAP;
+                     DEFCAP-L/S; JRRP; MSPC; NAC; NALP1; PP1044; SLEV1; VAMAS1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4468..4609
+                     /gene="NLRP1"
+                     /gene_synonym="AIADK; CARD7; CIDED; CLR17.1; DEFCAP;
+                     DEFCAP-L/S; JRRP; MSPC; NAC; NALP1; PP1044; SLEV1; VAMAS1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4610..4654
+                     /gene="NLRP1"
+                     /gene_synonym="AIADK; CARD7; CIDED; CLR17.1; DEFCAP;
+                     DEFCAP-L/S; JRRP; MSPC; NAC; NALP1; PP1044; SLEV1; VAMAS1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            4655..5610
+                     /gene="NLRP1"
+                     /gene_synonym="AIADK; CARD7; CIDED; CLR17.1; DEFCAP;
+                     DEFCAP-L/S; JRRP; MSPC; NAC; NALP1; PP1044; SLEV1; VAMAS1"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 gttgactagg cgctgttctt gctggctggt gccccagggc ctggagaggt ctgaagaaac
+       61 ctgggagcca gcagcccggg gctccactct gggttctgaa agcccattcc ctgctctgcg
+      121 gctcctccca ccccacctct tctcagcctt gcagctcaag ggttgatctc aggagtccag
+      181 gacccaggag agggaagaat ctgaggaaca cagaacagtg agcgttgccc acaccccatc
+      241 tcccgtcacc acatctcccc tcaccctcac cctccctgcc tggccctgga ccccatccca
+      301 ggacctccct atcagctgac ttcttccagt gtcttgcagg cccctctggg ctcctccctc
+      361 ccctggcttt tcctaccact ccccctctat cggcgtctat ctgtaggtgc cctgggattt
+      421 ataaaactgg gttccgaatg ctgaataaga gacggtaaga gccaaggcaa aggacagcac
+      481 tgttctctgc ctgcctgata ccctcaccac ctgggaacat cccccagaca ccctcttaac
+      541 tccgggacag agatggctgg cggagcctgg ggccgcctgg cctgttactt ggagttcctg
+      601 aagaaggagg agctgaagga gttccagctt ctgctcgcca ataaagcgca ctccaggagc
+      661 tcttcgggtg agacacccgc tcagccagag aagacgagtg gcatggaggt ggcctcgtac
+      721 ctggtggctc agtatgggga gcagcgggcc tgggacctag ccctccatac ctgggagcag
+      781 atggggctga ggtcactgtg cgcccaagcc caggaagggg caggccactc tccctcattc
+      841 ccctacagcc caagtgaacc ccacctgggg tctcccagcc aacccacctc caccgcagtg
+      901 ctaatgccct ggatccatga attgccggcg gggtgcaccc agggctcaga gagaagggtt
+      961 ttgagacagc tgcctgacac atctggacgc cgctggagag aaatctctgc ctcactcctc
+     1021 taccaagctc ttccaagctc cccagaccat gagtctccaa gccaggagtc acccaacgcc
+     1081 cccacatcca cagcagtgct ggggagctgg ggatccccac ctcagcccag cctagcaccc
+     1141 agagagcagg aggctcctgg gacccaatgg cctctggatg aaacgtcagg aatttactac
+     1201 acagaaatca gagaaagaga gagagagaaa tcagagaaag gcaggccccc atgggcagcg
+     1261 gtggtaggaa cgcccccaca ggcgcacacc agcctacagc cccaccacca cccatgggag
+     1321 ccttctgtga gagagagcct ctgttccaca tggccctgga aaaatgagga ttttaaccaa
+     1381 aaattcacac agctgctact tctacaaaga cctcacccca gaagccaaga tcccctggtc
+     1441 aagagaagct ggcctgatta tgtggaggag aatcgaggac atttaattga gatcagagac
+     1501 ttatttggcc caggcctgga tacccaagaa cctcgcatag tcatactgca gggggctgct
+     1561 ggaattggga agtcaacact ggccaggcag gtgaaggaag cctgggggag aggccagctg
+     1621 tatggggacc gcttccagca tgtcttctac ttcagctgca gagagctggc ccagtccaag
+     1681 gtggtgagtc tcgctgagct catcggaaaa gatgggacag ccactccggc tcccattaga
+     1741 cagatcctgt ctaggccaga gcggctgctc ttcatcctcg atggtgtaga tgagccagga
+     1801 tgggtcttgc aggagccgag ttctgagctc tgtctgcact ggagccagcc acagccggcg
+     1861 gatgcactgc tgggcagttt gctggggaaa actatacttc ccgaggcatc cttcctgatc
+     1921 acggctcgga ccacagctct gcagaacctc attccttctt tggagcaggc acgttgggta
+     1981 gaggtcctgg ggttctctga gtccagcagg aaggaatatt tctacagata tttcacagat
+     2041 gaaaggcaag caattagagc ctttaggttg gtcaaatcaa acaaagagct ctgggccctg
+     2101 tgtcttgtgc cctgggtgtc ctggctggcc tgcacttgcc tgatgcagca gatgaagcgg
+     2161 aaggaaaaac tcacactgac ttccaagacc accacaaccc tctgtctaca ttaccttgcc
+     2221 caggctctcc aagctcagcc attgggaccc cagctcagag acctctgctc tctggctgct
+     2281 gagggcatct ggcaaaaaaa gacccttttc agtccagatg acctcaggaa gcatgggtta
+     2341 gatggggcca tcatctccac cttcttgaag atgggtattc ttcaagagca ccccatccct
+     2401 ctgagctaca gcttcattca cctctgtttc caagagttct ttgcagcaat gtcctatgtc
+     2461 ttggaggatg agaaggggag aggtaaacat tctaattgca tcatagattt ggaaaagacg
+     2521 ctagaagcat atggaataca tggcctgttt ggggcatcaa ccacacgttt cctattgggc
+     2581 ctgttaagtg atgaggggga gagagagatg gagaacatct ttcactgccg gctgtctcag
+     2641 gggaggaacc tgatgcagtg ggtcccgtcc ctgcagctgc tgctgcagcc acactctctg
+     2701 gagtccctcc actgcttgta cgagactcgg aacaaaacgt tcctgacaca agtgatggcc
+     2761 catttcgaag aaatgggcat gtgtgtagaa acagacatgg agctcttagt gtgcactttc
+     2821 tgcattaaat tcagccgcca cgtgaagaag cttcagctga ttgagggcag gcagcacaga
+     2881 tcaacatgga gccccaccat ggtagtcctg ttcaggtggg tcccagtcac agatgcctat
+     2941 tggcagattc tcttctccgt cctcaaggtc accagaaacc tgaaggagct ggacctaagt
+     3001 ggaaactcgc tgagccactc tgcagtgaag agtctttgta agaccctgag acgccctcgc
+     3061 tgcctcctgg agaccctgcg gttggctggc tgtggcctca cagctgagga ctgcaaggac
+     3121 cttgcctttg ggctgagagc caaccagacc ctgaccgagc tggacctgag cttcaatgtg
+     3181 ctcacggatg ctggagccaa acacctttgc cagagactga gacagccgag ctgcaagcta
+     3241 cagcgactgc agctggtcag ctgtggcctc acgtctgact gctgccagga cctggcctct
+     3301 gtgcttagtg ccagccccag cctgaaggag ctagacctgc agcagaacaa cctggatgac
+     3361 gttggcgtgc gactgctctg tgaggggctc aggcatcctg cctgcaaact catacgcctg
+     3421 gggctggacc agacaactct gagtgatgag atgaggcagg aactgagggc cctggagcag
+     3481 gagaaacctc agctgctcat cttcagcaga cggaaaccaa gtgtgatgac ccctactgag
+     3541 ggcctggata cgggagagat gagtaatagc acatcctcac tcaagcggca gagactcgga
+     3601 tcagagaggg cggcttccca tgttgctcag gctaatctca aactcctgga cgtgagcaag
+     3661 atcttcccaa ttgctgagat tgcagaggaa agctccccag aggtagtacc ggtggaactc
+     3721 ttgtgcgtgc cttctcctgc ctctcaaggg gacctgcata cgaagccttt ggggactgac
+     3781 gatgacttct ggggccccac ggggcctgtg gctactgagg tagttgacaa agaaaagaac
+     3841 ttgtaccgag ttcacttccc tgtagctggc tcctaccgct ggcccaacac gggtctctgc
+     3901 tttgtgatga gagaagcggt gaccgttgag attgaattct gtgtgtggga ccagttcctg
+     3961 ggtgagatca acccacagca cagctggatg gtggcagggc ctctgctgga catcaaggct
+     4021 gagcctggag ctgtggaagc tgtgcacctc cctcactttg tggctctcca agggggccat
+     4081 gtggacacat ccctgttcca aatggcccac tttaaagagg aggggatgct cctggagaag
+     4141 ccagccaggg tggagctgca tcacatagtt ctggaaaacc ccagcttctc ccccttggga
+     4201 gtcctcctga aaatgatcca taatgccctg cgcttcattc ccgtcacctc tgtggtgttg
+     4261 ctttaccacc gcgtccatcc tgaggaagtc accttccacc tctacctgat cccaagtgac
+     4321 tgctccattc ggaaggccat agatgatcta gaaatgaaat tccagtttgt gcgaatccac
+     4381 aagccacccc cgctgacccc actttatatg ggctgtcgtt acactgtgtc tgggtctggt
+     4441 tcagggatgc tggaaatact ccccaaggaa ctggagctct gctatcgaag ccctggagaa
+     4501 gaccagctgt tctcggagtt ctacgttggc cacttgggat cagggatcag gctgcaagtg
+     4561 aaagacaaga aagatgagac tctggtgtgg gaggccttgg tgaaaccagg agatctcatg
+     4621 cctgcaacta ctctgatccc tccagcccgc atagccgtac cttcacctct ggatgccccg
+     4681 cagttgctgc actttgtgga ccagtatcga gagcagctga tagcccgagt gacatcggtg
+     4741 gaggttgtct tggacaaact gcatggacag gtgctgagcc aggagcagta cgagagggtg
+     4801 ctggctgaga acacgaggcc cagccagatg cggaagctgt tcagcttgag ccagtcctgg
+     4861 gaccggaagt gcaaagatgg actctaccaa gccctgaagg agacccatcc tcacctcatt
+     4921 atggaactct gggagaaggg cagcaaaaag ggactcctgc cactcagcag ctgaagtatc
+     4981 aacaccagcc cttgaccctt gagtcctggc tttggctgac ccttctttgg gtctcagttt
+     5041 ctttctctgc aaacaagttg ccatctggtt tgccttccag cactaaagta atggaacttt
+     5101 gatgatgcct ttgctgggca ttatgtgtcc atgccaggga tgccacaggg ggccccagtc
+     5161 caggtggcct aacagcatct cagggaatgt ccatctggag ctggcaagac ccctgcagac
+     5221 ctcatagagc ctcatctggt ggccacagca gccaagccta gagccctccg gatcccatcc
+     5281 aggcgcaaag aggaatagga gggacatgga accatttgcc tctggctgtg tcacagggtg
+     5341 agccccaaaa ttggggttca gcgtgggagg ccacgtggat tcttggcttt gtacaggaag
+     5401 atctacaaga gcaagccaac agagtaaagt ggaaggaagt ttattcagaa aataaaggag
+     5461 tatcacagct cttttagaat ttgtctagca ggctttccag tttttaccag aaaaccccta
+     5521 taaattaaaa attttttact taaatttaag aattaaaaaa atacaaaaaa gaaaaaatga
+     5581 aaataaagga ataagaagtt acctactcca
+//
+
