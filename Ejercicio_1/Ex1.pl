@@ -7,7 +7,7 @@ my $usage = "Ex1.pl <file>.gb";
 my $file = shift or die $usage;
 
 my $io_obj = Bio::SeqIO->new(-file => "$file", -format => "genbank");
-my $outseq = Bio::SeqIO->new(-format => "fasta", -file => ">out_nlrp1.fas");
+my $outseq = Bio::SeqIO->new(-format => "fasta", -file => ">out.fas");
 
 my $seq = $io_obj->next_seq;
 
