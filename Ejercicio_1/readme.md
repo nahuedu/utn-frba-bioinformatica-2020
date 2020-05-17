@@ -12,7 +12,7 @@ Comando para ejecutar el script:
 	perl ./Ej1.pl <input>		(input = nlrp1.gb)	
 
 Input esperado: archivo GenBank.
-Output: out_nlrp1.fas
+Output: out.fas
 
 Se ejecutó el script usando el input nlrp1.gb y se le cambió el nombre al archivo de salida por nlrp1.fas (para que sea más descriptivo)
 
@@ -26,6 +26,3 @@ Secuencia 6: 6
 
 
 Se podría presumir que el ORF correcto es el correspondiente a la secuencia 1, por tener la cadena de aminoácidos más grande (abarcando una parte del gen mucho mayor que el resto de las secuencias). Podremos afirmar o descartar esta teoría en los siguientes ejercicios.
-
-
-
