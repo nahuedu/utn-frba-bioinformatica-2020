@@ -4,7 +4,7 @@ Para el ejercicio 1 se buscó esta enfermedad en la página de la OMIM (https://
 
 Se descargó entonces, desde la página del NCBI, la secuencia de nucleótidos de un ARN mensajero correspondiente al gen NLRP1 humano (NLR family pyrin domain containing 1), relacionado con el vitiligo, en formato GenBank.
 
-El script en perl desarrollado lee el archivo .gb y convierte la secuencia de nucleótidos en 6 cadenas de aminoácidos posibles, una para cada marco de lectura posible (3 correspondientes a la dirección original de la secuencia y las otras 3 correspondientes la dirección del reverso complementario). 
+El script en perl desarrollado lee el archivo .gb y convierte la secuencia de nucleótidos en 6 cadenas de aminoácidos posibles, una para cada marco de lectura posible (3 correspondientes a la dirección original de la secuencia y las otras 3 correspondientes a la dirección del reverso complementario). 
 Luego, se reconoce dentro de cada traducción (o marco) el primer tramo que comience en metionina y termine en un stop. Para cada una de las cadenas obtenidas, se guarda este tramo dentro del archivo de salida. Los tramos que no comienzan en metionina y finalizan en un stop se descartan.
 
 Comando para ejecutar el script:
